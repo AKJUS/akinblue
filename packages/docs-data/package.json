@@ -22,8 +22,8 @@
         }
     },
     "dependencies": {
-        "@blueprintjs/core": "workspace:^",
-        "@blueprintjs/docs-theme": "workspace:^",
+        "@blueprintjs/core": "0.1.0",
+        "@blueprintjs/docs-theme": "1.0.0",
         "@documentalist/compiler": "^5.0.0",
         "escape-html": "^1.0.3",
         "marked": "^9.1.6",
