@@ -57,13 +57,13 @@
         }
     },
     "devDependencies": {
-        "@blueprintjs/node-build-scripts": "workspace:^",
-        "@blueprintjs/test-commons": "workspace:^",
+        "@blueprintjs/node-build-scripts": "0.3.1",
+        "@blueprintjs/test-commons": "0.3.1",
         "@twbs/fantasticon": "^2.7.2",
         "@types/handlebars": "^4.1.0",
         "enzyme": "^3.11.0",
         "handlebars": "^4.7.8",
-        "mocha": "^10.2.0",
+        "mocha": "^11.0.1",
         "npm-run-all": "^4.1.5",
         "react": "^18.3.1",
         "react-dom": "^18.3.1",
