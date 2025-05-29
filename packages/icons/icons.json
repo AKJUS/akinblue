@@ -4709,5 +4709,47 @@
         "tags": "file, secure, password, lock, protect",
         "group": "file",
         "codepoint": 62369
+    },
+    {
+        "displayName": "Gift box",
+        "iconName": "gift-box",
+        "tags": "gift, box, present, ribbon",
+        "group": "miscellaneous",
+        "codepoint": 62370
+    },
+    {
+        "displayName": "Delete clip",
+        "iconName": "delete-clip",
+        "tags": "screenshot, segment, select, selector, delete, point, object, location, marker",
+        "group": "interface",
+        "codepoint": 62371
+    },
+    {
+        "displayName": "Sweep",
+        "iconName": "sweep",
+        "tags": "broom, sweeper, broomstick, clean, linter, brush",
+        "group": "action",
+        "codepoint": 62372
+    },
+    {
+        "displayName": "Page break",
+        "iconName": "page-break",
+        "tags": "page break",
+        "group": "editor",
+        "codepoint": 62373
+    },
+    {
+        "displayName": "Branch locked",
+        "iconName": "branch-locked",
+        "tags": "github, repository, code, command, version control, fork",
+        "group": "action",
+        "codepoint": 62374
+    },
+    {
+        "displayName": "Branch unlocked",
+        "iconName": "branch-unlocked",
+        "tags": "github, repository, code, command, version control, fork",
+        "group": "action",
+        "codepoint": 62375
     }
 ]
