@@ -25,7 +25,7 @@
         "verify": "npm-run-all compile -p dist lint"
     },
     "dependencies": {
-        "@blueprintjs/colors": "workspace:^",
+        "@blueprintjs/colors": "1.0.0",
         "monaco-editor": "^0.45.0"
     },
     "devDependencies": {
